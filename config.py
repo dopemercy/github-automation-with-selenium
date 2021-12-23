@@ -1,0 +1,5 @@
+username = "username"
+token = "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"
+password = "password"
+repository_name = "RepoThroughSelenium"
+url = "https://www.github.com/"
